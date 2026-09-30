@@ -1,0 +1,14 @@
+build/
+build-core/
+build-asan/
+saves/
+*.png
+!docs/images/*.png
+.DS_Store
+compile_commands.json
+cmake-build-*/
+.idea/
+.vscode/
+*.o
+*.d
+Testing/
